@@ -1,0 +1,1 @@
+COMPLIE= g++ -Wall -Werror
